@@ -48,7 +48,7 @@ export default class Game extends Canvas {
         this.player1.update(deltatime);
         this.player2.update(deltatime);
         this.ball.update(deltatime);
-        // this.collision.aabb_collision_dectection();
+        
         
     }
     
