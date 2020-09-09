@@ -1,6 +1,7 @@
 # pong game
 
 this is a pong game that i made in my first in college for a project. 
+
 webpack 6 was used in this project so you may have to download was
 
 1) open terminal in root file location 
